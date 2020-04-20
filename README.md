@@ -5,6 +5,7 @@ For the new modifications to the PlanMyTrip app, you are asked to add more data 
 
 ## Resources
 Data Sources: WeatherPy_challenge.csv, WeatherPy_vacation.csv, Google Maps API, OpenWeather API
+
 Software: Jupyter Notebooks, Python, Pandas, Numpy, Matplotlib, Citipy, Statistics, Google Maps
 
 ## Summary
