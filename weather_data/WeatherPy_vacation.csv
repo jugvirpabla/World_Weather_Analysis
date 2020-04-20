@@ -1,0 +1,75 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+13,Mogadishu,SO,82.51,light rain,2.04,45.34,Hotel Juba
+28,Khorixas,,72.54,light rain,-20.37,14.97,Khorixas Lodge
+32,Katsuura,JP,60.26,light rain,35.13,140.3,Katsuura Hotel Mikazuki
+41,Albany,US,50.0,light rain,42.6,-73.97,
+57,Poum,NC,80.6,light rain,-20.23,164.02,Gîte kajeon
+58,Balabac,PH,87.67,light rain,7.99,117.06,Sing and Swing Lodge
+62,Kavieng,PG,84.33,light rain,-2.57,150.8,Nusa Island Retreat
+66,Bluff,NZ,55.99,light rain,-46.6,168.33,Bluff Homestead - Guesthouse & Campervan Park
+99,Faanui,PF,82.24,light rain,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+100,Japura,ID,88.66,light rain,-0.32,102.35,KOST dan HOMESTAY RUMAH KITA JOSH
+103,Busselton,AU,66.99,light rain,-33.65,115.33,Observatory Guest House
+104,Harper,LR,80.53,light rain,4.38,-7.72,Cape View Guest House
+107,Mana,GF,77.13,moderate rain,5.66,-53.78,LE SAMANA
+112,Ahipara,NZ,64.58,moderate rain,-35.17,173.17,Ahipara Holiday Park
+119,Tezu,IN,70.41,light rain,27.92,96.17,Circuit House
+127,Cayenne,GF,77.0,moderate rain,4.93,-52.33,Hôtel Le Dronmi
+143,Manono,CD,68.5,light rain,-7.3,27.42,Hotel hewa bora
+150,Merauke,ID,89.24,light rain,-8.47,140.33,
+151,Aljezur,PT,57.99,light rain,37.32,-8.8,Amazigh Hostel
+153,Namibe,AO,74.39,light rain,-15.2,12.15,Chik-Chik Namibe
+166,Padang,ID,88.18,light rain,-0.95,100.35,Mercure Padang
+171,Garissa,KE,76.48,light rain,-0.45,39.64,Almond Resort
+180,Pouembout,NC,78.96,moderate rain,-21.13,164.9,Camping de Tipenga
+186,Tura,IN,79.81,light rain,25.52,90.22,Hotel RIKMAN Continental
+188,Morros,BR,72.45,light rain,-9.45,-46.3,
+200,Lorengau,PG,84.49,light rain,-2.02,147.27,Lorengau Harbourside Hotel
+202,Angra Dos Reis,BR,69.33,light rain,-23.01,-44.32,Mercure Angra dos Reis
+204,Pilar,BR,75.52,light rain,-9.6,-35.96,Pousada Manguaba
+209,Dingle,PH,89.37,light rain,11.0,122.67,Camp Pasica
+214,Buala,SB,84.38,light rain,-8.14,159.59,Maringe Lagoon Lodge
+217,New Norfolk,AU,62.01,light rain,-42.78,147.06,The Shingles Riverside Cottages
+231,Burnie,AU,61.0,light rain,-41.07,145.92,Beachfront Voyager Motor Inn
+239,Yekepa,LR,70.41,light rain,7.58,-8.54,Alvino Hotel
+246,Prainha,BR,72.63,light rain,-1.8,-53.48,Hotel Teixeira
+247,Port Blair,IN,84.47,light rain,11.67,92.75,Hotel Sentinel
+248,Tagusao,PH,86.29,light rain,9.19,117.81,"Shaman's Breath- Beach, Bed & Breakfast"
+249,Butaritari,KI,83.77,light rain,3.07,172.79,Isles Sunset Lodge
+251,Irituia,BR,74.17,light rain,-1.77,-47.44,Hotel Victória
+257,Peniche,PT,57.0,light rain,39.36,-9.38,Hotel Star inn Peniche
+264,Vao,NC,73.98,heavy intensity rain,-22.67,167.48,Hotel Kou-Bugny
+292,Sumbe,AO,76.5,moderate rain,-11.21,13.84,Hotel Ritz Sumbe
+295,Balsas,BR,73.8,light rain,-7.53,-46.04,Novo Hotel
+303,Sinnamary,GF,78.67,moderate rain,5.38,-52.95,ALETHEIA Appartement Sinnamary
+311,Marawi,PH,82.49,light rain,8.0,124.29,Derogongan Residence
+331,Samarai,PG,84.61,light rain,-10.62,150.67,Nuli Sapi
+339,Golubitskaya,RU,51.8,light rain,45.32,37.28,Parus
+353,Batticaloa,LK,86.29,light rain,7.71,81.69,Grand Star Guest House
+354,Maues,BR,72.34,light rain,-3.38,-57.72,Hotel Miramar
+357,Bendigo,AU,72.0,light rain,-36.77,144.28,The Hotel Shamrock
+362,Chake Chake,TZ,80.17,light rain,-5.25,39.77,Hotel Archipelago
+372,Eydhafushi,MV,85.86,light rain,5.1,73.07,Soneva Fushi
+376,Alta Floresta,BR,71.78,light rain,-9.88,-56.09,Floresta Amazonica Hotel
+382,Gizo,SB,84.02,light rain,-8.1,156.84,Imagination Island
+388,Korhogo,CI,77.13,light rain,9.45,-5.63,Hotel Le Recul
+391,Mendi,PG,67.78,light rain,-6.18,143.65,Kiburu Lodge
+396,San Cristobal,VE,67.6,light rain,7.77,-72.22,Pirineos
+402,Maragogi,BR,78.94,light rain,-9.01,-35.22,Hotel Praia Dourada
+416,Macrohon,PH,85.39,light rain,10.08,124.94,Banahaw Creek
+423,Loubomo,CG,71.28,moderate rain,-4.2,12.67,La Dolisienne
+432,Tautira,PF,86.0,light rain,-17.73,-149.15,Pension Oaoa
+433,Nosy Varika,MG,72.16,light rain,-20.58,48.53,Hotel Volazara
+445,Anito,PH,85.78,light rain,12.45,125.29,The Yellow House
+462,Kebumen,ID,88.9,light rain,-7.67,109.65,RedDoorz near Alun Alun Kebumen
+485,Tiarei,PF,86.0,light rain,-17.53,-149.33,Le Rocher de Tahiti
+490,Thinadhoo,MV,85.01,light rain,0.53,72.93,
+501,Maceio,BR,79.05,light rain,-9.67,-35.74,Mercure Maceio Pajucara Hotel
+502,Henties Bay,,59.0,light rain,-22.12,14.28,Fishermans Guest House
+514,Port-Gentil,GA,79.81,light rain,-0.72,8.78,Fengshui Residence
+521,Cullera,ES,61.0,light rain,39.17,-0.25,Hotel Santamarta
+528,Kaeo,NZ,61.0,moderate rain,-35.1,173.78,Bushido Lodge
+539,Mayumba,GA,78.55,light rain,-3.43,10.66,LIKWALE LODGE
+549,Iturama,BR,68.65,light rain,-19.73,-50.2,República AmaZonas
+550,Mitsamiouli,KM,82.76,light rain,-11.38,43.28,Foyer ADM
+559,Lufilufi,WS,84.0,moderate rain,-13.87,-171.6,Leuaina Beach Resort and Spa
