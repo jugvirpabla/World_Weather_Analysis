@@ -4,9 +4,8 @@
 For the new modifications to the PlanMyTrip app, you are asked to add more data to the database, or cities DataFrame, so that customers know the weather in the cities when they click on a pop-up marker. You’ll also need to add the amount of rainfall or snowfall within the last three hours so that customers can filter the DataFrame using input statements based on the temperature range and whether or not it is raining or snowing. Finally, you’ll need to create a directions layer Google map that shows the directions between multiple cities for travel.
 
 ## Resources
-Data Sources: WeatherPy_challenge.csv, WeatherPy_vacation.csv, Google Maps API, OpenWeather API
-
-Software: Jupyter Notebooks, Python, Pandas, Numpy, Matplotlib, Citipy, Statistics, Google Maps
+ -Data Sources: WeatherPy_challenge.csv, WeatherPy_vacation.csv, Google Maps API, OpenWeather API
+ -Software: Jupyter Notebooks, Python, Pandas, Numpy, Matplotlib, Citipy, Statistics, Google Maps
 
 ## Summary
 I gathered a set of 1,500 random latitudes and longitudes. Located the nearest city using the citipy module. And, performed an API call with the OpenWeatherMap to aquire all the data needed for the updates.
